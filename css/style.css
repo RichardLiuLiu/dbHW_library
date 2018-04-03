@@ -1,0 +1,76 @@
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.result-title {
+    padding-top: 0.5em;
+    text-align: center;
+    color: #dd0d1e;
+}
+
+.booklist-id {
+    min-width: 65px;
+    margin-right: 10px;
+    padding-top: 0.2em;
+    font-size: 15px;
+}
+
+.booklist-title {
+    font-size: 1.2em;
+}
+
+.booklist-copyleft {
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;  
+    background-color: #00bb48;
+    color: #ffffff;
+}
+
+.booklist-nocopyleft {
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;  
+    background-color: #dd0d1e;
+    color: #ffffff;
+}
+
+.modal-bookid {
+    min-width: 60px;
+    margin-right: 8px;
+    padding-top: 0.2em;
+    font-size: 20px;
+}
+
+.modal-booktitle {
+    font-size: 1.5em;
+}
+
+.bookholding-title {
+    padding-top: 1.2em;
+    padding-bottom: 0.2em;
+    color: #dd0d1e;
+}
+
+.status-holding {
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    padding-left: 0.7em;
+    padding-right: 0.7em;  
+    background-color: #00bb48;
+    color: #ffffff;
+    float: right;
+}
+
+.status-overdue {
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;  
+    background-color: #dd0d1e;
+    color: #ffffff;
+    float: right;
+}
