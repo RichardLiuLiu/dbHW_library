@@ -55,11 +55,11 @@
                         <?= $bookholding['booktitle']; ?>
                     </strong>
                     <?php if ($bookholding['status'] == 'Holding'): ?>
-                        <span class="status-holding">
+                        <span class="status-holding rounded">
                             <?= $bookholding['status']; ?>
                         </span>
                     <?php else: ?>
-                        <span class="status-overdue">
+                        <span class="status-overdue rounded">
                             <?= $bookholding['status']; ?>
                         </span>
                     <?php endif; ?>
